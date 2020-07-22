@@ -12,4 +12,4 @@ changeBackground = () => {
     return el;
 }
 
-var intervalID = window.setInterval(changeBackground, 7000);
+var intervalID = window.setInterval(changeBackground, 3000);
