@@ -1,0 +1,11 @@
+** Transition 1 **
+
+change the background color of a blank page with transitions
+
+create one blank page (not scrollable)
+add a background
+change background after 5 seconds
+
+
+1. issues with html, body and peronal div heights
+2. used overflow: hidden to remedy this for now

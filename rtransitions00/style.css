@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;   
+    margin: 0;
+    overflow: hidden;
+}
+
+.full-page {
+    width: 100vw;
+    height: 100vh;
+    background-color: #1e90ff;  
+    margin: 0;
+    transition: background-color 2s ease-in-out;  
+}
+
+.full-pages {
+    width: 100vw;
+    height: 100vh;
+    background-color: #b22222;
+    margin: 0;
+    transition: background-color 2s ease-in-out;
+}
